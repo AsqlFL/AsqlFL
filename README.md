@@ -2,6 +2,7 @@
 
 <h3 align="center">Frontend developer from Brazil</h3>
 
+---
 
 <!-- Little Box
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dsfsdfsdfsdf&label=asdasda&color=0e75b6&style=flat" alt="" /> </p> -->
