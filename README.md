@@ -2,7 +2,6 @@
 
 <h3 align="center">Dev from Brazil</h3>
 
----
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AsqlFL&show_icons=true&theme=dracula)
 
 <!-- <h3 align="left">Connect with me:</h3>
