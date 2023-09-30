@@ -1,6 +1,6 @@
 <h1 align="center">Hi I'm ---------</h1>
 
-<h3 align="center">Frontend developer from Brazil</h3>
+<h3 align="center">Dev from Brazil</h3>
 
 ---
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AsqlFL&show_icons=true&theme=dracula)
