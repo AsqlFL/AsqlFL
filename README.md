@@ -3,12 +3,8 @@
 <h3 align="center">Frontend developer from Brazil</h3>
 
 ---
-
-<!-- Little Box
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dsfsdfsdfsdf&label=asdasda&color=0e75b6&style=flat" alt="" /> </p> -->
-
-<!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AsqlFL" alt="dsfsdfsdfsdf" /></a> </p> -->
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AsqlFL&show_icons=true&theme=dracula)
+---
 <h3 align="left">Connect with me:</h3>
 <p align="left"></p>
 
